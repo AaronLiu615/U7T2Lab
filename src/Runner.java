@@ -9,7 +9,7 @@ public class Runner {
         // num.add(5);
         // num.add(24);
         // System.out.println(num);
-
+        System.out.println("HELLO IM FROM HOME");
         // create an array with the known types
         Integer[] intsArray = {1, 2, 3, 4, 5};
 
